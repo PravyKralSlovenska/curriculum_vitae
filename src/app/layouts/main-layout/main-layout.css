@@ -1,0 +1,9 @@
+.main_layout {
+    /* padding: var(--layout_padding); */
+
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 50px 1fr;
+
+}

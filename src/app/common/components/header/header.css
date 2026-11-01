@@ -1,0 +1,14 @@
+.header {
+    width: 100%;
+    height: 100%;
+    padding-inline: var(--inline_padding);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--red);
+}
+
+.links {
+    display: flex;
+    gap: 2rem;
+}

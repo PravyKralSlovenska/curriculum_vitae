@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    color: var(--white);
+}
+
+:root {
+    /* COLORS */
+    --black: #000000;
+    --red: #CB2957;
+    --gray: #DDDDDD;
+    --white: #EEEEEE;
+
+    /* PADDINGS & MARINGS */
+    --layout_padding: 50px;
+    --inline_padding: 1rem;
+    --padding_between_elements: 1rem;
+    --padding_between_sections: 2rem;
+}
